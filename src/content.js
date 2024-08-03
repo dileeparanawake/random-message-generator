@@ -163,7 +163,7 @@ const thinking_phrases = [
   "Thinking... or perhaps just daydreaming!",
 ];
 
-const greeting_messages = [
+const greetings = [
   "Hey there, ready to be inspired?",
   "Hello, let's ignite some creativity!",
   "What's up, let's chase our dreams!",
@@ -196,3 +196,12 @@ const greeting_messages = [
   "Hey, let's inspire each other today!",
   "Hello, ready to take on the world?",
 ];
+
+module.exports = {
+  opening,
+  middle,
+  closing,
+  authors,
+  thinking_phrases,
+  greetings,
+};

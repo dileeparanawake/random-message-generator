@@ -1,5 +1,7 @@
 # Random message generator
 
+\*
+
 1. Run program.
 2. Greet user.
 3. Prompt user to hit enter to get message.
@@ -8,17 +10,18 @@
 6. Log message for user.
 7. Prompt user to hit return to view another message or enter q to quit.
 
-//
-// Key functions
+\*
 
-Function - greet user.
+//Key functions
 
-Function - quit on q.
+//Function - greet user.
 
-Function - run on enter.
+//Function - quit on q.
 
-Function - random message selector from array.
+//Function - run on enter.
 
-Function - get today's date.
+//Function - random message selector from array.
 
-Function - create quote.
+//Function - get today's date.
+
+//Function - create quote.
