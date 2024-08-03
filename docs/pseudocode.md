@@ -14,14 +14,14 @@
 
 //Key functions
 
+// Function wait for user input & run prog / quit
+
 //Function - greet user.
-
-//Function - quit on q.
-
-//Function - run on enter.
 
 //Function - random message selector from array.
 
 //Function - get today's date.
 
 //Function - create quote.
+
+//Function - delay output.
