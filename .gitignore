@@ -1,3 +1,4 @@
 #ignore directories
 
 planning/
+**/.DS_Store

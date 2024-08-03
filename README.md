@@ -7,7 +7,7 @@
 
 ![Example quote](Example.png)
 
-'\*\*' Most almost probably.
+\*\* Most almost probably. \*\*
 
 - **Why did I make this?**: The first Codecademy course project 🙂! The goal is to apply the JavaScript I've learnt and to practice the git workflow.
 - **What I learnt**: Got better at Git, splitting code into modules (intro),delays,markdown.
