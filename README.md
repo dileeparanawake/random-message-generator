@@ -5,7 +5,7 @@
 - **Purpose**: A javascript program that generates random inspirational, composite messages.
 - **What problem does it solve?**: For anyone looking for inspiriration, these quotes will make your day.
 
-![Example quote](.Example.png)
+![Example quote](Example.png)
 
 Most almost probably.
 
